@@ -1,0 +1,8 @@
+com\kriss\com\kriss\newVersion\RegisterClass.class
+com\kriss\com\kriss\newVersion\listeners\SlashCommandListener.class
+com\kriss\com\kriss\newVersion\commands\CreateWalletCommand.class
+com\kriss\com\kriss\newVersion\App.class
+com\kriss\com\kriss\newVersion\commands\GreetCommand.class
+com\kriss\com\kriss\newVersion\commands\SlashCommands.class
+com\kriss\com\kriss\newVersion\commands\ShutdownCommand.class
+com\kriss\com\kriss\newVersion\commands\PingCommand.class
