@@ -19,7 +19,6 @@ public class App {
             .run(args);
     }
 
-
     @Bean
     public GatewayDiscordClient gatewayDiscordClient() {
         return DiscordClientBuilder.create("Token").build()
